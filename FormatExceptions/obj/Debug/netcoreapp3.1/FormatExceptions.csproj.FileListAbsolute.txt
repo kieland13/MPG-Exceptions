@@ -1,0 +1,11 @@
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\bin\Debug\netcoreapp3.1\FormatExceptions.exe
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\bin\Debug\netcoreapp3.1\FormatExceptions.deps.json
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\bin\Debug\netcoreapp3.1\FormatExceptions.runtimeconfig.json
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\bin\Debug\netcoreapp3.1\FormatExceptions.runtimeconfig.dev.json
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\bin\Debug\netcoreapp3.1\FormatExceptions.dll
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\bin\Debug\netcoreapp3.1\FormatExceptions.pdb
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\obj\Debug\netcoreapp3.1\FormatExceptions.csprojAssemblyReference.cache
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\obj\Debug\netcoreapp3.1\FormatExceptions.AssemblyInfoInputs.cache
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\obj\Debug\netcoreapp3.1\FormatExceptions.AssemblyInfo.cs
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\obj\Debug\netcoreapp3.1\FormatExceptions.dll
+F:\DCTC\NET1\Chapter13\FormatExceptions\FormatExceptions\obj\Debug\netcoreapp3.1\FormatExceptions.pdb
